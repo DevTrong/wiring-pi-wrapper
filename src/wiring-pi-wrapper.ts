@@ -1,6 +1,6 @@
 /// <reference path="typings/tsd.d.ts" />
 
-let wpi = require('wiring-pi');
+let wpi = require('wiringpi-node');
 
 export class ChangeWorker {
   private static eventListeners: { pin: Pin, handlers: any[], previousOutput?: boolean }[] = [];
