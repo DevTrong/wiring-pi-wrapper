@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dislick/wiring-pi-wrapper#readme",
   "dependencies": {
-    "wiring-pi": "2.2.0"
+    "wiringpi-node": "2.4.4"
   }
 }
